@@ -44,9 +44,7 @@ const Home = () => {
             <span className="text-accent">Find Inner Peace.</span>
           </h1>
           <p className="text-sand/80 max-w-2xl mx-auto mb-10 text-lg">
-            Reliable Hajj, Umrah, Visa &amp; Holiday packages — crafted with care, guided with
-            trust. Let us take care of the journey so you can focus on the worship and the
-            memories.
+            “বিশ্বাস ও নির্ভরতার প্রতিটি পবিত্র সফরে, আমরা আপনার বিশ্বস্ত সঙ্গী হিসেবে থাকতে চাই—ইনশাআল্লাহ।”
           </p>
           <div className="flex flex-wrap justify-center gap-4">
             <Link

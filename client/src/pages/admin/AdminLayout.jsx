@@ -6,7 +6,7 @@ const navItems = [
   { to: "/admin", label: "Dashboard", icon: LayoutDashboard, end: true },
   { to: "/admin/packages", label: "Packages", icon: Package },
   { to: "/admin/bookings", label: "Bookings", icon: Inbox },
-  { to: "/admin/offers", label: "Offers & Banners", icon: ImageIcon },
+  { to: "/admin/offers", label: "Offers", icon: ImageIcon },
 ];
 
 const AdminLayout = () => {

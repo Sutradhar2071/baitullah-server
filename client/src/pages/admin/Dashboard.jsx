@@ -43,7 +43,7 @@ const Dashboard = () => {
     { label: "Total Packages", value: stats.packages, icon: Package, link: "/admin/packages" },
     { label: "Total Inquiries", value: stats.bookings, icon: Inbox, link: "/admin/bookings" },
     { label: "New Inquiries", value: stats.newBookings, icon: Mail, link: "/admin/bookings" },
-    { label: "Offers & Banners", value: stats.offers, icon: ImageIcon, link: "/admin/offers" },
+    { label: "Offers", value: stats.offers, icon: ImageIcon, link: "/admin/offers" },
   ];
 
   return (

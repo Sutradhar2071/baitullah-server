@@ -19,12 +19,12 @@ const Navbar = () => {
       {/* Top info bar */}
       <div className="hidden md:flex justify-end items-center gap-2 bg-primary text-sand text-xs px-6 py-1.5">
         <Phone size={14} />
-        <a href="tel:+8801617222250" className="hover:text-accent transition-colors">
-          +880 1617 222250
+        <a href="tel:+8801407916252" className="hover:text-accent transition-colors">
+          +880 1407 916252
         </a>
         <span className="mx-2 text-sand/40">|</span>
-        <a href="mailto:ask@baitullahsafar.com" className="hover:text-accent transition-colors">
-          ask@baitullahsafar.com
+        <a href="mailto:baitullahsafarinshaallah@gmail.com" className="hover:text-accent transition-colors">
+          baitullahsafarinshaallah@gmail.com
         </a>
       </div>
 

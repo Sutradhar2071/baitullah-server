@@ -156,14 +156,14 @@ const ManageOffers = () => {
         >
           Recent Offers
         </button>
-        <button
+        {/* <button
           onClick={() => setActiveTab("banners")}
           className={`px-5 py-2.5 rounded-full text-sm font-semibold transition-colors ${
             activeTab === "banners" ? "bg-primary text-sand" : "bg-white text-ink border border-sage"
           }`}
         >
           Hero Banners
-        </button>
+        </button> */}
       </div>
 
       {error && <p className="text-sm text-red-600 bg-red-50 px-4 py-3 rounded-xl mb-4">{error}</p>}
